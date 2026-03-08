@@ -200,7 +200,7 @@ window.DATA = {
       temporada: 1,
       inicio: 1,
       fin: 16,
-      baseURL: "https://dn720405.ca.archive.org/0/items/malcolm-el-de-en-medio-t-01/Malcolm%20El%20De%20En%20Medio%20T01E"
+      baseURL: "https://dn720405.ca.archive.org/download/malcolm-el-de-en-medio-t-01/Malcolm%20El%20De%20En%20Medio%20T01E"
     },
 
     { 
