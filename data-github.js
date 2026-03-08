@@ -96,7 +96,8 @@ window.DATA = {
     // ✅ AGREGA MÁS PELÍCULAS AQUÍ - Copia y pega un bloque {} y cambia los datos
   ],
 
-  // ===== ANIMES =====  animes: [
+  // ===== ANIMES =====  
+  animes: [
     { 
       titulo: "Naruto", 
       year: "2002", 
