@@ -99,16 +99,45 @@ window.DATA = {
   // ===== ANIMES =====  
   animes: [
     { 
-      titulo: "Naruto", 
-      year: "2002", 
-      genre: "Acción | Aventura",
-      rating: "8.4",
-      overview: "Naruto Uzumaki es un ninja adolescente que busca convertirse en Hokage.",
-      thumb: "thumbnails/naruto.jpg",
-      temporadas: [
-        { nombre: "Temporada 1", inicio: 1, fin: 52, baseURL: "https://archive.org/download/naruto-s1/Naruto-" }
-      ]
+  titulo: "Naruto", 
+  year: "2002", 
+  genre: "Acción | Aventura",
+  rating: "8.4",
+  overview: "Naruto Uzumaki es un ninja adolescente que busca convertirse en Hokage.",
+  thumb: "thumbnails/naruto.jpg",
+
+  temporadas: [
+
+    { 
+      nombre: "Temporada 1",
+      inicio: 1,
+      fin: 52,
+      baseURL: "https://archive.org/download/naruto-temporada-1-espanol-latino/Naruto-"
     },
+
+    { 
+      nombre: "Temporada 2",
+      inicio: 53,
+      fin: 104,
+      baseURL: "https://archive.org/download/naruto-temporada-2-espanol-latino/Naruto-"
+    },
+
+    { 
+      nombre: "Temporada 3",
+      inicio: 105,
+      fin: 158,
+      baseURL: "https://archive.org/download/naruto-temporada-3-espanol-latino_20250908/Naruto-"
+    },
+
+    { 
+      nombre: "Temporada 4",
+      inicio: 159,
+      fin: 220,
+      baseURL: "https://archive.org/download/naruto-temporada-4-espanol-latino/Naruto-"
+    }
+
+  ]
+},
     { 
       titulo: "Naruto Shippuden", 
       year: "2007", 
