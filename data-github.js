@@ -187,6 +187,73 @@ window.DATA = {
   // ===== SERIES =====
   series: [
     { 
+      titulo: "Malcolm in the Middle", 
+      year: "2000", 
+      genre: "Comedia Negra | Comedia Fisica | Drama",
+      rating: "8.5",
+      overview: "La serie sigue a una familia de seis (más tarde siete) integrantes y está protagonizada por Malcolm (Frankie Muniz), un chico relativamente normal al cual se le descubre mediante una prueba en la primera temporada que tiene un cociente intelectual del nivel de un genio.",
+      thumb: "thumbnails/Malcolm-in-the-Middle.jpg",
+     temporadas: [
+
+    { 
+      nombre: "Temporada 1",
+      temporada: 1,
+      inicio: 1,
+      fin: 16,
+      baseURL: "https://dn720405.ca.archive.org/0/items/malcolm-el-de-en-medio-t-01/Malcolm%20El%20De%20En%20Medio%20T01E"
+    },
+
+    { 
+      nombre: "Temporada 2",
+      temporada: 2,
+      inicio: 1,
+      fin: 25,
+      baseURL: "https://ia601508.us.archive.org/29/items/malcolm-el-de-en-medio-t-02/Malcolm%20El%20De%20En%20Medio%20T02E"
+    },
+
+    { 
+      nombre: "Temporada 3",
+      temporada: 3,
+      inicio: 1,
+      fin: 22,
+      baseURL: "https://dn721807.ca.archive.org/0/items/malcolm-el-de-en-medio-t-03/Malcolm%20El%20De%20En%20Medio%20T03E"
+    },
+
+    { 
+      nombre: "Temporada 4",
+      temporada: 4,
+      inicio: 1,
+      fin: 22,
+      baseURL: "https://dn790003.ca.archive.org/0/items/malcolm-el-de-en-medio-t-04/Malcolm%20El%20De%20En%20Medio%20T04E"
+    },
+
+    { 
+      nombre: "Temporada 5",
+      temporada: 5,
+      inicio: 1,
+      fin: 22,
+      baseURL: "https://dn721603.ca.archive.org/0/items/malcolm-el-de-en-medio-t-05/Malcolm%20El%20De%20En%20Medio%20T05E"
+    },
+
+    { 
+      nombre: "Temporada 6",
+      temporada: 6,
+      inicio: 1,
+      fin: 22,
+      baseURL: "https://dn721801.ca.archive.org/0/items/malcolm-el-de-en-medio-t-06/Malcolm%20El%20De%20En%20Medio%20T06E"
+    },
+
+    { 
+      nombre: "Temporada 7",
+      temporada: 7,
+      inicio: 1,
+      fin: 22,
+      baseURL: "https://dn720004.ca.archive.org/0/items/malcolm-el-de-en-medio-t-07/Malcolm%20El%20De%20En%20Medio%20T07E"
+    }
+
+  ]
+},
+    { 
       titulo: "Breaking Bad", 
       year: "2008", 
       genre: "Crimen | Drama",
