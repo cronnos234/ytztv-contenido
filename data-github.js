@@ -146,18 +146,24 @@ window.DATA = {
       overview: "Naruto regresa después de dos años de entrenamiento para rescatar a su amigo.",
       thumb: "thumbnails/naruto-shippuden.jpg",
       temporadas: [
-        { nombre: "Temporada 1", inicio: 1, fin: 50, baseURL: "https://archive.org/download/naruto-shippuden-temporada-1-espanol-latino_202509/Naruto%20Shippuden-0" 
-     },
+
+    { 
+      nombre: "Temporada 1",
+      inicio: 1,
+      fin: 32,
+      baseURL: "https://archive.org/download/naruto-shippuden-temporada-1-espanol-latino_202509/Naruto%20Shippuden-0"
+    },
 
     { 
       nombre: "Temporada 2",
       inicio: 33,
       fin: 53,
       baseURL: "https://archive.org/download/naruto-shippuden-temporada-2-espanol-latino/Naruto_Shippuden-0"
-     }
+    }
 
-     ]
-   },
+  ]
+},
+
     { 
       titulo: "Dragon Ball Z", 
       year: "1989", 
@@ -324,3 +330,4 @@ window.DATA = {
     // ✅ AGREGA MÁS MÚSICAS AQUÍ
   ]
 };
+
