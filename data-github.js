@@ -158,7 +158,7 @@ window.DATA = {
       nombre: "Temporada 2",
       inicio: 33,
       fin: 53,
-      baseURL: "https://archive.org/download/naruto-shippuden-temporada-2-espanol-latino/Naruto_Shippuden-0"
+      baseURL: "https://archive.org/download/naruto-shippuden-temporada-2-espanol-latino/Naruto%20Shippuden-0"
     }
 
   ]
