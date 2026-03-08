@@ -11,7 +11,7 @@ window.DATA = {
       rating: "7.4",
       overview: "Un ex asesino a sueldo regresa cuando unos gánsteres matan a su perro.",
       thumb: "thumbnails/john-wick.jpg",
-      url: "https://archive.org/download/john-wick-2014/John.Wick.2014.1080p.mp4"
+      url: "https://ia801708.us.archive.org/9/items/otro-dia-para-matar-4-k-hdr/Otro%20dia%20para%20Matar%204K%20HDR.mp4"
     },
     { 
       titulo: "John Wick 2", 
