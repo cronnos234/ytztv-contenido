@@ -146,7 +146,7 @@ window.DATA = {
       overview: "Naruto regresa después de dos años de entrenamiento para rescatar a su amigo.",
       thumb: "thumbnails/naruto-shippuden.jpg",
       temporadas: [
-        { nombre: "Temporada 1", inicio: 1, fin: 50, baseURL: "https://archive.org/download/naruto-shippuden-temporada-1-espanol-latino_202509/Naruto%20Shippuden-" }
+        { nombre: "Temporada 1", inicio: 1, fin: 50, baseURL: "https://archive.org/download/naruto-shippuden-temporada-1-espanol-latino_202509/Naruto%20Shippuden-0" }
       ]
     },
     { 
