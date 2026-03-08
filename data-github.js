@@ -243,42 +243,8 @@ window.DATA = {
       overview: "Video musical oficial de Linkin Park.",
       thumb: "thumbnails/numb.jpg",
       url: "https://archive.org/download/linkin-park-numb/Numb.1080p.mp4"
-    },
-    { 
-      titulo: "The Weeknd - Blinding Lights", 
-      year: "2019", 
-      genre: "Pop | Synthwave",
-      rating: "8.5",
-      overview: "Éxito mundial de The Weeknd con estilo synthwave.",
-      thumb: "thumbnails/blinding-lights.jpg",
-      url: "https://archive.org/download/weeknd-blinding/Blinding.Lights.1080p.mp4"
-    },
-    { 
-      titulo: "Bad Bunny - Tití Me Preguntó", 
-      year: "2022", 
-      genre: "Reggaetón | Latin",
-      rating: "8.2",
-      overview: "Hit de Bad Bunny del álbum Un Verano Sin Ti.",
-      thumb: "thumbnails/titi.jpg",
-      url: "https://archive.org/download/bad-bunny-titi/Titi.Me.Pregunto.1080p.mp4"
-    },
-    { 
-      titulo: "Queen - Bohemian Rhapsody", 
-      year: "1975", 
-      genre: "Rock | Ópera",
-      rating: "9.8",
-      overview: "Obra maestra de Queen que revolucionó el rock.",
-      thumb: "thumbnails/bohemian.jpg",
-      url: "https://archive.org/download/queen-bohemian/Bohemian.Rhapsody.1080p.mp4"
-    },
-    { 
-      titulo: "Michael Jackson - Thriller", 
-      year: "1982",       genre: "Pop | Funk",
-      rating: "9.5",
-      overview: "El video musical más icónico de la historia.",
-      thumb: "thumbnails/thriller.jpg",
-      url: "https://archive.org/download/mj-thriller/Thriller.1080p.mp4"
     }
+
     // ✅ AGREGA MÁS MÚSICAS AQUÍ
   ]
 };
